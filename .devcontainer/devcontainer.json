@@ -24,7 +24,7 @@
   // This is useful to have docker and docker-compose working inside the container
   // Ref: https://github.com/devcontainers/features/tree/main/src/docker-from-docker
   "features": {
-    "ghcr.io/devcontainers/features/docker-from-docker:1": {
+    "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
       "dockerDashComposeVersion": "v2"
     }
   }
